@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+build/
+coverage/
+
+# dotenv environment files
+.env
+.env.* 
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Vscode settings
+.vscode/
+
+# Optional npm cache directory
+.npm
+
+# yarn integrity file
+.yarn-integrity
+
+# MacOS files
+*.swp
+
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
